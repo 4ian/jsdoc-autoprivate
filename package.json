@@ -1,0 +1,17 @@
+{
+  "name": "jsdoc-autoprivate",
+  "version": "0.0.1",
+  "description": "JSDoc3 plugin to automatically mark objects starting with '_' as private",
+  "contributors": [
+    "Jonathan Beezley (https://github.com/jbeezley)"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbeezley/jsdoc-autoprivate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbeezley/jsdoc-autoprivate/issues"
+  },
+  "main": "./autoprivate.js"
+}
